@@ -1,6 +1,6 @@
-# udp-protocol-transport-text-unencrypted-version-
+# udp-protocol-transport-text-unencrypted-version-WINDOWS
 
-这是udp协议传输文本软件（无加密版本）,
+这是udp协议传输文本软件（无加密版本）,请在WINDOWS系统下使用
 ,分为接收端和发送端
 ,使用c语言完成
 
